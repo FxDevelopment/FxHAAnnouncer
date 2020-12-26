@@ -1,5 +1,5 @@
 # FxHAAnnouncer
-[Minecraft](https://img.shields.io/badge/MC-1.12.2-brightgreen.svg)
+![Minecraft](https://img.shields.io/badge/MC-1.12.2-brightgreen.svg)
 [![Discord](https://discordapp.com/api/guilds/699764448155533404/widget.png)](https://discord.gg/VFNTycm)
 ## What does this do?
 This announces to the server when a player catches a pixelmon with a hidden ability, for example:
