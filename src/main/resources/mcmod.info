@@ -3,7 +3,9 @@
     "modid": "fxhaannouncer",
     "name": "FxHAAnnouncer",
     "description": "${description}",
-    "authorList": ["OzzyMar"],
+    "authorList": [
+      "OzzyMar"
+    ],
     "version": "1",
     "mcversion": "1.12.2",
     "forgeversion": "Forge 14.23.5.2768",
@@ -11,11 +13,11 @@
     "sourceUrl": "",
     "dependencies": [
       "pixelmon@8.1.2",
-      "spongeapi@7.2.0"
+      "spongeapi@7.3.0"
     ],
     "requiredMods": [
       "pixelmon@8.1.2",
-      "spongeapi@7.2.0"
+      "spongeapi@7.3.0"
     ]
   }
 ]

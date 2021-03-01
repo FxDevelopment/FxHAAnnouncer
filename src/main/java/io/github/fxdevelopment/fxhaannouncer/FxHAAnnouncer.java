@@ -13,15 +13,15 @@ import org.spongepowered.api.plugin.Plugin;
 import javax.inject.Inject;
 
 @Plugin(
-        id="fxhaannouncer",
-        name="FxHAAnnouncer",
-        description="Announces when a player catches a hidden ability pokemon!",
+        id = "fxhaannouncer",
+        name = "FxHAAnnouncer",
+        description = "Announces when a player catches a hidden ability pokemon!",
         authors = {
                 "OzzyMar"
         },
         dependencies = {
                 @Dependency(id = "pixelmon", version = "8.1.2"),
-                @Dependency(id = "spongeapi", version = "7.2.0")
+                @Dependency(id = "spongeapi", version = "7.3.0")
         }
 )
 public class FxHAAnnouncer {
