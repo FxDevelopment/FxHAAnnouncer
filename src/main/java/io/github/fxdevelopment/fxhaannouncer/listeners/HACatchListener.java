@@ -1,12 +1,8 @@
 package io.github.fxdevelopment.fxhaannouncer.listeners;
 
-import com.pixelmonmod.pixelmon.api.enums.ReceiveType;
 import com.pixelmonmod.pixelmon.api.events.CaptureEvent;
-import com.pixelmonmod.pixelmon.api.events.PixelmonReceivedEvent;
 import com.pixelmonmod.pixelmon.api.pokemon.Pokemon;
-import com.pixelmonmod.pixelmon.entities.pixelmon.EntityPixelmon;
 import io.github.fxdevelopment.fxhaannouncer.FxHAAnnouncer;
-import net.minecraft.entity.EnumCreatureType;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import org.spongepowered.api.Sponge;
 import org.spongepowered.api.entity.living.player.Player;
