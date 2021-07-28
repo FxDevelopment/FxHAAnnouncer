@@ -6,7 +6,7 @@
 
     <groupId>com.github.fxdevelopment</groupId>
     <artifactId>FxHAAnnouncer</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <packaging>jar</packaging>
 
     <description>Announces when a player catches a hidden ability pokemon!</description>
@@ -64,8 +64,9 @@
         <dependency>
             <groupId>com.pixelmonmod</groupId>
             <artifactId>pixelmon</artifactId>
-            <version>1.12.2-8.1.2-universal</version>
-            <scope>provided</scope>
+            <version>1.12.2-8.2.0-universal</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/libs/pixelmon-8.2.0.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>net.minecraftforge</groupId>

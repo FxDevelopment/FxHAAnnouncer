@@ -20,7 +20,7 @@ import javax.inject.Inject;
                 "OzzyMar"
         },
         dependencies = {
-                @Dependency(id = "pixelmon", version = "8.1.2"),
+                @Dependency(id = "pixelmon", version = "8.2.0"),
                 @Dependency(id = "spongeapi", version = "7.3.0")
         }
 )
